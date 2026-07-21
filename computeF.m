@@ -8,7 +8,7 @@ function Fx = computeF(x, n)
         n = 320;
     end
 
-    if any(x < 0) || any(x > 0.5)
+    if any(x < 0) || any(x >= 0.5)
         warning('computeF: x should lie in (0, 0.5) for the assigned interval.');
     end
 
