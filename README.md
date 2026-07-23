@@ -1,9 +1,7 @@
-# shakiba
+فاطمه شکیبامهر: computeF.m ,main_1.m,simpsonf.m,computeIntegrand.m
 
-انتگرال تابع مورد نظر با روش سیمپسون مرکب بدون اجرای تابع متلب (از پایه) پیاده سازی شد و مقایسه ها هم انجام شد 
+یاسمن گودرزیانی:MAIN2.m
 
-برای اجرا فایل 
-main_1.m 
-را run کنید.
+میترا خسروی‌پور: mainp3.m
 
-تابع اصلی قابل استفاده برای بقیه: computeF(x)
+غزل شفیعی‌پور: Report.pdf, ExactCalculation.mw
