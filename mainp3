@@ -11,10 +11,6 @@ Fb = computeF(b, n_simpson);
 
 m = (Fb - Fa) / (b - a);
 
-fprintf('F(0) = %.12f\n', Fa);
-fprintf('F(0.5) = %.12f\n', Fb);
-fprintf('m = %.12f\n\n', m);
-
 N_sample = 11;
 x_sample = linspace(a, b, N_sample);
 y_sample = zeros(1, N_sample);
